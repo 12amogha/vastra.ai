@@ -1,6 +1,6 @@
-# Vastra.ai: Transforming Fashion Marketing with AI
+# vastra.ai
 
-Vastra.ai leverages advanced Machine Learning Models for predictive fast fashion trend forecasting and optimizing influencer selection. Our platform maximizes Gen Z engagement and turnover rates by integrating trends and influencers, enhancing brand resonance, driving customer engagement, and maintaining a competitive edge in the fashion industry. We empower brands to make data-driven decisions that maximize ROI.
+vastra.ai leverages advanced Machine Learning Models for predictive fast fashion trend forecasting and optimizing influencer selection. Our platform maximizes Gen Z engagement and turnover rates by integrating trends and influencers, enhancing brand resonance, driving customer engagement, and maintaining a competitive edge in the fashion industry. We empower brands to make data-driven decisions that maximize ROI.
 
 ## Key Features
 
