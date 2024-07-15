@@ -26,11 +26,11 @@ It utilizes hyperparameter tuning via GridSearchCV for optimization, preprocessi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Note:** Output of the Emerging Trend Identification model serves as the input for the Influencer Collaboration Recommendation Model.
+**Note:** Output of the Emerging Trend Identification model serves as the input for the Influencer Collaboration Selection Recommendation Model. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Influencer Collaboration Recommendation Model
+### Influencer Collaboration Selection Recommendation Model
 
 **Input:**
 - BrandName
