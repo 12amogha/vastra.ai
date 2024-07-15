@@ -15,4 +15,4 @@ vastra.ai leverages advanced Machine Learning Models for predictive fast fashion
 - **Gen Z Reach:** Partner with influencers who resonate with Gen Z for impactful content.
 
 
-# Refer [Documentation](https://github.com/12amogha/vastra.ai/blob/main/Documentation.md) for more details.**
+# Refer [Documentation](https://github.com/12amogha/vastra.ai/blob/main/Documentation.md) for more details.
