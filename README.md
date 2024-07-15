@@ -13,3 +13,5 @@ vastra.ai leverages advanced Machine Learning Models for predictive fast fashion
 - **Competitive Edge:** Stay agile in the fashion retail landscape with trend-responsive strategies.
 
 - **Gen Z Reach:** Partner with influencers who resonate with Gen Z for impactful content.
+
+**Refer [Documentation](https://github.com/12amogha/vastra.ai/blob/main/Documentation.md) for more details.**
